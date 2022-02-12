@@ -4,5 +4,3 @@ y := 10
 
 const z = 10     // Untyped const
 const z int = 10 // typed const
-
-// Page 33 ...
